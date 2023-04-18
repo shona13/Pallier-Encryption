@@ -1,4 +1,6 @@
-# Pallier-Encryption
+# Paillier-Encryption
+
+There is a spelling error in the Repo title.
 
 For the problem statement check Question.png
 
